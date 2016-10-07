@@ -1,0 +1,6 @@
+{
+  "name": "Cardekhodata",
+  "tagline": "Get cardekho scraped data.You'll also get images from here and i have provided json file for your comfort",
+  "body": "# cardekhodata\r\nGet cardekho scraped data.You'll also get images from here and i have provided json file for your comfort\r\n\r\nYOU NEED TO HAVE PYTHON AND SCRAPY INSTALLED.\r\n\r\nIn your terminal simply run-\r\n\r\n- scrapy crawl cardekho\r\n\r\nand see the magic.To get the json data run - \r\n\r\n- scrapy crawl cardekho -t cardekho.json -o json\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
